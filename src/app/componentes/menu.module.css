@@ -1,0 +1,17 @@
+.cabecalho{
+    display:flex;
+    height: 100px;
+    background-color: aquamarine;
+}
+.cabecalho h1{
+    margin-top: 0px;
+}
+.cabecalho ul{
+    display: inline-flex;
+    border-color: blue;
+    
+}
+.cabecalho li{
+    display: inline-flex;
+    border-color: blue;
+}
